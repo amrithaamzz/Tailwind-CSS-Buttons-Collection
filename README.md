@@ -28,6 +28,8 @@ This project demonstrates different button styles including solid, outline, grad
 
 ---
 
+[live](https://amrithaamzz.github.io/Tailwind-CSS-Buttons-Collection/)
+
 ![image](./image.png)
 
 
